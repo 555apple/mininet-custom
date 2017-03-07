@@ -1,0 +1,31 @@
+h1 ifconfig h1-eth0 192.168.69.1 netmask 255.255.255.0
+h6 ifconfig h6-eth0 192.168.69.6 netmask 255.255.255.0
+h7 ifconfig h7-eth0 192.168.69.7 netmask 255.255.255.0
+h8 ifconfig h8-eth0 192.168.69.8 netmask 255.255.255.0
+h9 ifconfig h9-eth0 192.168.69.9 netmask 255.255.255.0
+
+h2 ifconfig h2-eth0 192.168.69.2 netmask 255.255.255.0
+h2 ifconfig h2-eth1 192.168.85.1 netmask 255.255.255.0
+h2 ifconfig h2-eth2 192.168.70.6 netmask 255.255.255.0
+h2 ifconfig h2-eth3 192.168.71.7 netmask 255.255.255.0
+h2 ifconfig h2-eth4 192.168.72.8 netmask 255.255.255.0 
+h2 ifconfig h2-eth5 192.168.73.9 netmask 255.255.255.0 
+h2 ifconfig h2-eth6 192.168.86.1 netmask 255.255.255.0 
+
+h3 ifconfig h3-eth0 192.168.85.2 netmask 255.255.255.0
+h3 ifconfig h3-eth1 192.168.91.1 netmask 255.255.255.0
+
+h10 ifconfig h10-eth0 192.168.86.2 netmask 255.255.255.0
+h10 ifconfig h10-eth1 192.168.90.1 netmask 255.255.255.0
+
+h4 ifconfig h4-eth0 192.168.91.2 netmask 255.255.255.0
+h4 ifconfig h4-eth1 192.168.69.3 netmask 255.255.255.0
+h4 ifconfig h4-eth2 192.168.90.2 netmask 255.255.255.0
+
+h5 ifconfig h5-eth0 192.168.69.4 netmask 255.255.255.0
+h5 ifconfig h5-eth1 192.168.22.1 netmask 255.255.255.0
+
+h11 ifconfig h11-eth0 192.168.22.2 netmask 255.255.255.0
+
+
+
